@@ -1,2 +1,2 @@
-# git
-Script to use git
+# Tutorial git
+How to use git

@@ -1,11 +1,15 @@
 # Tutorial git Bash
 
 ## Git e GitHub
-O [Git](https://git-scm.com) é um sistema de controle de versão gratuito e de código aberto, criado por Linus Torvalds, que também criou o sistema operacional Linux.
+**[Git]**(https://git-scm.com) é um sistema de controle de versão gratuito e de código aberto, criado por Linus Torvalds.
 
-Já o GitHub é um repositório remoto e online para o controle de códigos com planos gratuitos, e planos pagos caso queira deixar seus projetos privados.
+**[GitHub]**(https://github.com) é um repositório remoto e on-line para o controle de códigos com planos gratuitos e pagos, caso queira deixar seus projetos não acessíveis.
 
-Ou seja, Git e GitHub são duas coisas completamente diferentes mas que trabalham em conjunto, tenha isso em mente.
+Git e GitHub são duas coisas diferentes, mas que podem trabalham em conjunto para facilitar a organização de seus códigos.
 
-## Livros
+Nesse tutorial iremos ver como fazer o **manejo de um repositório em seu computador** e outro **on-line no GitHub**, utilizando comandos em Shell, através do Git.
+
+## Livros e sites
 - [Happy Git and GitHub for the useR](http://happygitwithr.com)
+
+- [Git and GitHub workshop](http://ncsu-geoforall-lab.github.io/git-and-github-workshop/)

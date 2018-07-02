@@ -1,9 +1,9 @@
 # Tutorial git Bash
 
 ## Git e GitHub
-[Git](https://git-scm.com) é um sistema de controle de versão gratuito e de código aberto, criado por Linus Torvalds.
+**[Git](https://git-scm.com)** é um sistema de controle de versão gratuito e de código aberto, criado por Linus Torvalds.
 
-**[GitHub]**(https://github.com) é um repositório remoto e on-line para o controle de códigos com planos gratuitos e pagos, caso queira deixar seus projetos não acessíveis.
+**[GitHub](https://github.com)** é um repositório remoto e on-line para o controle de códigos com planos gratuitos e pagos, caso queira deixar seus projetos não acessíveis.
 
 Git e GitHub são duas coisas diferentes, mas que podem trabalham em conjunto para facilitar a organização de seus códigos.
 

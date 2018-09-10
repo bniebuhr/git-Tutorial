@@ -3,7 +3,7 @@
 ## Git e GitHub
 **[Git](https://git-scm.com)** é um sistema de controle de versão gratuito e de código aberto, criado por Linus Torvalds.
 
-**[GitHub](https://github.com)** é um repositório remoto e on-line para o controle de códigos com planos gratuitos e pagos. No plano gratuiro, os projetos são abertos e toda a comunidade tem acesso. No plano pago, os projetos permitem repositórios privados.
+**[GitHub](https://github.com)** é um repositório remoto e on-line para o controle de códigos com planos gratuitos e pagos. No plano gratuito, os projetos são abertos e toda a comunidade tem acesso. No plano pago, os projetos permitem repositórios privados (mas parece haver possibilidade de [repositórios privados de graça para pessoas dentro de instituições de ensino](https://help.github.com/articles/applying-for-a-student-developer-pack/).
 
 Git e GitHub são duas coisas diferentes, mas que podem trabalham em conjunto para facilitar a organização de seus códigos e dados.
 
